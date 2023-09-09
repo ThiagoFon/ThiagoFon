@@ -1,5 +1,5 @@
 
-### Olá! eu sou o Thiago Daniel
+### Olá! eu sou o Thiago Daniel<br>
 
 [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagols__castro/?next=%2F)
